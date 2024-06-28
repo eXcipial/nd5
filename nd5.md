@@ -1,3 +1,4 @@
+<center>
 
 > **RAUDONA**
 > ```diff
@@ -16,4 +17,5 @@
 > -  60 eur
 > + 500 eur
 > Likutis - 900 eur
->  ```
+>  ``` 
+</center>
